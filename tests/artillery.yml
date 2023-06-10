@@ -1,0 +1,13 @@
+config:
+  target: 'http://localhost:3000'
+  phases:
+    - duration: 30
+      arrivalRate: 199999
+scenarios:
+  - flow:
+      - get:
+          url: "/users"
+          # json:
+            # name: "Test"
+            # email: "test@example.com"
+            # password: "pazziword69420"
