@@ -8,4 +8,4 @@
 -With our artillery testing we were able to find that there is a limit to the load our API can handle. 
 -Alot of our API optimization happened in testing our code. We brokedown what the purpose our code was and what was needed to acheive that.
 ## Project challenges:
--Our main challenges were encounted when testing our code via JEST. We specifically found challenges in isolating where our code was going wrong whether that be in how we wrote our tests or in how we wrote our controllers.
+-Our main challenges were encounted when testing our code via JEST. We specifically found challenges in isolating where our code was going wrong whether that be in how we wrote our tests or in how we wrote our controllers.clear
